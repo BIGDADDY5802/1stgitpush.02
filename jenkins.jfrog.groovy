@@ -1,4 +1,4 @@
-#jfrogtest.jenkins
+#jfrogtest
 
 pipeline{
     agent any
